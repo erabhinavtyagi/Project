@@ -1,0 +1,4 @@
+../Core/Src/airTempTask.c:20:9:DS18B20_Start2	16	static
+../Core/Src/airTempTask.c:39:6:DS18B20_Write2	24	static
+../Core/Src/airTempTask.c:68:9:DS18B20_Read2	16	static
+../Core/Src/airTempTask.c:95:6:airTemp_Task	24	static

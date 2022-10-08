@@ -1,0 +1,4 @@
+../Core/Src/soilTempTask.c:20:9:DS18B20_Start1	16	static
+../Core/Src/soilTempTask.c:39:6:DS18B20_Write1	24	static
+../Core/Src/soilTempTask.c:70:9:DS18B20_Read1	16	static
+../Core/Src/soilTempTask.c:98:6:soilTemp_Task	24	static

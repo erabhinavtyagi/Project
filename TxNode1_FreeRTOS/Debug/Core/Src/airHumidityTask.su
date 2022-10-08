@@ -1,0 +1,4 @@
+../Core/Src/airHumidityTask.c:23:6:DHT11_Start	8	static
+../Core/Src/airHumidityTask.c:37:9:DHT11_Check_Response	16	static
+../Core/Src/airHumidityTask.c:53:9:DHT11_Read	16	static
+../Core/Src/airHumidityTask.c:73:6:humidity_Task	24	static

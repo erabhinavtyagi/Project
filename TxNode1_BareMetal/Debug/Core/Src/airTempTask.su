@@ -1,0 +1,6 @@
+../Core/Src/airTempTask.c:20:6:Set_Pin_Output1	40	static
+../Core/Src/airTempTask.c:29:6:Set_Pin_Input1	40	static
+../Core/Src/airTempTask.c:39:9:DS18B20_Start2	16	static
+../Core/Src/airTempTask.c:58:6:DS18B20_Write2	24	static
+../Core/Src/airTempTask.c:87:9:DS18B20_Read2	16	static
+../Core/Src/airTempTask.c:114:5:airTemp_Task	32	static

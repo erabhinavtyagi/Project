@@ -1,0 +1,6 @@
+../Core/Src/soilTempTask.c:22:6:Set_Pin_Output2	40	static
+../Core/Src/soilTempTask.c:31:6:Set_Pin_Input2	40	static
+../Core/Src/soilTempTask.c:41:9:DS18B20_Start1	16	static
+../Core/Src/soilTempTask.c:60:6:DS18B20_Write1	24	static
+../Core/Src/soilTempTask.c:90:9:DS18B20_Read1	16	static
+../Core/Src/soilTempTask.c:117:5:soilTemp_Task	32	static
